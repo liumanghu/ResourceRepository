@@ -1,3 +1,3 @@
 # ResourceRepository
 
-我的美术资源远程仓库
+我的远程资bundle仓库
